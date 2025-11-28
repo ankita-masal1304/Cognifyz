@@ -1,0 +1,15 @@
+#header{
+    color: black;background-color: aqua;font-style: normal;
+};
+
+.middle{
+    font-size: medium;
+};
+.section{
+    font-size: medium;
+    font-color:black; 
+
+};
+.footer{
+    font-size: medium;
+}
